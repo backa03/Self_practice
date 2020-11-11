@@ -21,7 +21,7 @@ public class SingleDimensionalArray {
        for(int each: scores){
            System.out.println(each);
        }
-
+        //now
 
 
 
